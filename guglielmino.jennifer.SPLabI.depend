@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1625530559 source:c:\users\jenni\escritorio\guglielmino.jennifer.splabi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"paises.h"
+	"menus.h"
+	"utn_guglielmino.h"
+	"LinkedList.h"
+	"controller.h"
+	"ordenamiento_y_filtrado.h"
+
+1621608081 c:\users\jenni\escritorio\guglielmino.jennifer.splabi\utn_guglielmino.h
+
+1624839296 c:\users\jenni\escritorio\guglielmino.jennifer.splabi\linkedlist.h
+
+1621608063 source:c:\users\jenni\escritorio\guglielmino.jennifer.splabi\utn_guglielmino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	"utn_guglielmino.h"
+
+1625529435 source:c:\users\jenni\escritorio\guglielmino.jennifer.splabi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625527082 source:c:\users\jenni\escritorio\guglielmino.jennifer.splabi\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menus.h"
+	"utn_guglielmino.h"
+
+1625521489 c:\users\jenni\escritorio\guglielmino.jennifer.splabi\menus.h
+
+1625528888 source:c:\users\jenni\escritorio\guglielmino.jennifer.splabi\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paises.h"
+	"LinkedList.h"
+
+1625528856 c:\users\jenni\escritorio\guglielmino.jennifer.splabi\paises.h
+	"LinkedList.h"
+
+1625523323 source:c:\users\jenni\escritorio\guglielmino.jennifer.splabi\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"paises.h"
+
+1625523182 c:\users\jenni\escritorio\guglielmino.jennifer.splabi\parser.h
+	"LinkedList.h"
+
+1625530491 source:c:\users\jenni\escritorio\guglielmino.jennifer.splabi\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"controller.h"
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"utn_guglielmino.h"
+
+1625529768 c:\users\jenni\escritorio\guglielmino.jennifer.splabi\controller.h
+	"LinkedList.h"
+
+1625531065 source:c:\users\jenni\escritorio\guglielmino.jennifer.splabi\ordenamiento_y_filtrado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ordenamiento_y_filtrado.h"
+	"paises.h"
+
+1625528317 c:\users\jenni\escritorio\guglielmino.jennifer.splabi\ordenamiento_y_filtrado.h
+	"LinkedList.h"
+
